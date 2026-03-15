@@ -29,8 +29,8 @@ This project demonstrates:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-items-api.git
-cd fastapi-items-api
+git clone https://github.com/Arik-code98/search-api
+cd search-api
 ```
 
 ### 2. Install dependencies
