@@ -36,7 +36,7 @@ cd search-api
 ### 2. Install dependencies
 
 ```bash
-pip install fastapi uvicorn
+pip install -r requirements.txt
 ```
 
 ### 3. Run the server
