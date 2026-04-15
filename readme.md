@@ -180,7 +180,15 @@ GET /items/1
 }
 ```
 
+### Error Response
 
+If the item does not exist:
+
+```json
+{
+  "detail": "Item not found"
+}
+```
 
 Status Code: **404**
 
